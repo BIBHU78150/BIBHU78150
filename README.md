@@ -24,6 +24,10 @@
 - 💬 **Ask me about:** Model optimization, CI/CD pipelines, Cloud Architecture
 - ⚡ **Fun fact**: I love automating workflows and building intelligent systems!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BIBHU78150&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
