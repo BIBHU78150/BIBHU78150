@@ -1,0 +1,22 @@
+name: Play Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'ttt|')
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Play Tic-Tac-Toe
+        uses: sydrawat/readme-tic-tac-toe@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          issue_title: ${{ github.event.issue.title }}
+          issue_number: ${{ github.event.issue.number }}
+          repository: ${{ github.repository }}
+          readme_path: README.md

@@ -115,6 +115,19 @@ Watch the snake gracefully eat my GitHub contributions!
 
 ---
 
+### 🕹️ Play Tic-Tac-Toe with Me!
+Click on any empty square to make a move. The GitHub Action will play against you automatically!
+
+<!-- BEGIN TIC TAC TOE -->
+|   |   |   |
+|:---:|:---:|:---:|
+| <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
+| <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C3&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C4&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C5&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
+| <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C6&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C7&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/BIBHU78150/BIBHU78150/issues/new?title=ttt%7C8&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
+<!-- END TIC TAC TOE -->
+
+---
+
 ### 🎨 Beyond the Code
 When I'm not orchestrating containers or training models, you can find me:
 - ☕ Trying out new coffee roasts and perfecting my brew
