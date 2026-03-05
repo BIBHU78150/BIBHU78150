@@ -24,13 +24,6 @@
 - 💬 **Ask me about:** Model optimization, CI/CD pipelines, Cloud Architecture
 - ⚡ **Fun fact**: I love automating workflows and building intelligent systems!
 
-### 🌍 My GitHub Contributions Globe
-<p align="center">
-  <a href="https://github.com/BIBHU78150">
-    <img src="https://github-readme-globe.vercel.app/api?username=BIBHU78150&color=27F700&theme=tokyonight" alt="GitHub Globe" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
