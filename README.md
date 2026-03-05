@@ -17,11 +17,11 @@
 
 ### 👨‍💻 About Me
 
-<div align="center">
+<p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" />
   </a>
-</div>
+</p>
 
 - 🔭 I’m currently studying **B.Tech**
 - 🧠 I'm passionate about **Machine Learning & DevOps**
@@ -31,11 +31,11 @@
 - ⚡ **Fun fact**: I love automating workflows and building intelligent systems!
 
 ### 🌍 My GitHub Contributions Globe
-<div align="center">
+<p align="center">
   <a href="https://github.com/BIBHU78150">
-    <img src="https://github-readme-globe.vercel.app/api?username=BIBHU78150&color=27F700&theme=tokyonight" />
+    <img src="https://github-readme-globe.vercel.app/api?username=BIBHU78150&color=27F700&theme=tokyonight" alt="GitHub Globe" />
   </a>
-</div>
+</p>
 
 ---
 
