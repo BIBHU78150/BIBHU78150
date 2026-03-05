@@ -17,10 +17,6 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://spotify-github-profile.jvns.workers.dev/api/view?uid=bibhu78150&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify" />
-</p>
-
 - 🔭 I’m currently studying **B.Tech**
 - 🧠 I'm passionate about **Machine Learning & DevOps**
 - 🌱 **Currently Learning:** Kubernetes, Advanced MLOps, Rust
