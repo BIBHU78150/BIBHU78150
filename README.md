@@ -15,12 +15,27 @@
   </a>
 </p>
 
----
-
 ### 👨‍💻 About Me
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+  </a>
+</div>
+
 - 🔭 I’m currently studying **B.Tech**
 - 🧠 I'm passionate about **Machine Learning & DevOps**
+- 🌱 **Currently Learning:** Kubernetes, Advanced MLOps, Rust
+- 👯 **Looking to collaborate on:** Open Source AI projects & Backend Systems
+- 💬 **Ask me about:** Model optimization, CI/CD pipelines, Cloud Architecture
 - ⚡ **Fun fact**: I love automating workflows and building intelligent systems!
+
+### 🌍 My GitHub Contributions Globe
+<div align="center">
+  <a href="https://github.com/BIBHU78150">
+    <img src="https://github-readme-globe.vercel.app/api?username=BIBHU78150&color=27F700&theme=tokyonight" />
+  </a>
+</div>
 
 ---
 
@@ -108,6 +123,18 @@ Watch the snake gracefully eat my GitHub contributions!
 </div>
 
 ---
+
+### 🎨 Beyond the Code
+When I'm not orchestrating containers or training models, you can find me:
+- ☕ Trying out new coffee roasts and perfecting my brew
+- ♟️ Playing chess (always up for a match!)
+- 📚 Reading sci-fi and tech blogs
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
