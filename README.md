@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Bibhu!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Machine%20Learning%20&%20DevOps%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Bibhu!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Software%20Development%20Engineer%20@%20LG%20|%20ServiceNow%20Certified&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=27F700&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;DevOps+Enthusiast;B.Tech+Student;Always+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=27F700&center=true&vCenter=true&width=700&lines=Software+Development+Engineer+@+LG;ServiceNow+Certified+Developer;Machine+Learning+Engineer;DevOps+Enthusiast;B.Tech+in+CSE;Always+building+and+learning!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,16 +13,23 @@
   <a href="mailto:bibhukalyannayak6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ServiceNow-Certified_App_Developer-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Certified" />
+  </a>
 </p>
+
+<br/>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently studying **B.Tech**
-- 🧠 I'm passionate about **Machine Learning & DevOps**
+- 💼 I’m currently working as a **Software Development Engineer (SDE) at LG**
+- 🏅 I'm a **ServiceNow Certified Application Developer**
+- 🎓 I'm currently pursuing my **B.Tech in Computer Science & Engineering**
+- 🧠 I'm passionate about **Machine Learning, DevOps & Enterprise Architecture**
 - 🌱 **Currently Learning:** Kubernetes, Advanced MLOps, Rust
 - 👯 **Looking to collaborate on:** Open Source AI projects & Backend Systems
-- 💬 **Ask me about:** Model optimization, CI/CD pipelines, Cloud Architecture
-- ⚡ **Fun fact**: I love automating workflows and building intelligent systems!
+- 💬 **Ask me about:** Model optimization, CI/CD pipelines, Cloud Architecture, ServiceNow
+- ⚡ **Fun fact:** I love automating workflows and building intelligent systems!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BIBHU78150&layout=compact&theme=tokyonight&hide_border=true" />
@@ -63,22 +70,21 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-#### ☁️ Database, DevOps & Tools
+#### ☁️ Enterprise, Database & DevOps
 <p>
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -102,8 +108,6 @@
 ---
 
 ### 🎮 The Beautiful Contribution Snake Game
-
-Watch the snake gracefully eat my GitHub contributions!
 
 <div align="center">
   <picture>
