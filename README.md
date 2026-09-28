@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/BitBake-333333?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/GStreamer-534B52?style=for-the-badge&logo=video&logoColor=white" />
   <img src="https://img.shields.io/badge/Media_DRMs-000000?style=for-the-badge&logo=media&logoColor=white" />
+  <img src="https://img.shields.io/badge/webOS-000000?style=for-the-badge&logo=lg&logoColor=white" />
 </p>
 
 #### 🤖 Machine Learning & AI
